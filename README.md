@@ -41,7 +41,23 @@ STEP 6: Use zscore of to remove outliers
 ![Screenshot (19)](https://github.com/user-attachments/assets/d5f7b533-05e0-401e-9def-f8cc2b5e4e10)
 
 
+![Screenshot (22)](https://github.com/user-attachments/assets/5ff52c93-c72b-47d4-b13f-f0ff5cf50ca9)
+![Screenshot (23)](https://github.com/user-attachments/assets/d891a2a2-c96e-4a75-a071-366ee02fa952)
+![Screenshot (24)](https://github.com/user-attachments/assets/13872808-3426-48ba-982a-f50b0b6d4b7a)
+![Screenshot (26)](https://github.com/user-attachments/assets/a84ba835-1986-4c80-9af7-12ed8acfac1c)
+![Screenshot (27)](https://github.com/user-attachments/assets/57df1091-0de4-47cc-b84c-1a0939d60671)
+![Screenshot (28)](https://github.com/user-attachments/assets/e4323cea-398c-46b7-aa36-36738b281188)
+![Screenshot (29)](https://github.com/user-attachments/assets/91ea1f1b-1ccc-4556-9bf1-2c1822bca31c)
+![Screenshot (30)](https://github.com/user-attachments/assets/938ab904-4bf6-4313-8cd7-47f397e3e9f9)
+![Screenshot (31)](https://github.com/user-attachments/assets/337ba059-7f6b-48f1-8127-39d81bfcbdcd)
+![Screenshot (32)](https://github.com/user-attachments/assets/4f16faba-a810-4935-99de-d2a6b3df46ed)
+![Screenshot (33)](https://github.com/user-attachments/assets/572a714e-fa86-4db9-9d95-53d8dd6924a7)
+![Screenshot (34)](https://github.com/user-attachments/assets/d095ef1a-76f2-4fe9-8e49-d1e5966669ae)
+
+
+
+
 
 
 # Result
-          <<include your Result here>>
+          Thus we have read and cleaned the data and also removed the outliers by detection using IQR and Z-score method.
